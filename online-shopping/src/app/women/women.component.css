@@ -1,0 +1,18 @@
+.ui.fluid.card {
+    width: 105%;
+    max-width: 9999px;
+}
+.ui.vertical.divider:before {
+    top:60%;
+}
+
+.inline-flex {
+    flex: inline;
+}
+@media screen and (max-width: 767px){
+    .ui.fluid.card {
+        width: 70%;
+        max-width: 9999px;
+    }
+    
+}

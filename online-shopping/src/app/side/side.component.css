@@ -1,0 +1,8 @@
+.ui.vertical.divider{
+    left: 100%;
+    top: 0;
+    height: 100%;
+}
+.ui.vertical.divider:before{
+    top: 50%;
+}
